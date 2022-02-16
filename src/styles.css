@@ -1,0 +1,78 @@
+img{
+    width: 25px;
+    height: 25px;
+}
+b{
+    padding-top: 20px;
+    font-size: 30px;
+    color: aqua;
+}
+header{
+    text-decoration: none;
+    color: white;
+    
+    background-color: black;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.item{
+    display: inline-block;
+    padding: 10px;
+    
+
+}
+.box{
+    text-align: center;
+    background-color:rgb(10, 10, 48);
+    color: white;
+    height:350px ;
+    padding-top: 5%;
+}
+.tittle{
+    color: aqua;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.txt{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+}
+.line{
+    text-decoration: none;
+    color: aqua;
+    padding: 10px;
+    font-size: 20px;
+}
+.content{
+   width: 30%;
+   height: 20%;
+   display: inline-block;
+   padding: 20px;
+
+}
+.style{
+    padding-top:30%;
+    
+}
+.heading{
+    
+    font-size: 30px;
+    color:gray;
+    padding: 10px;
+}
+.intext{
+    font-size: 20px;
+
+}
